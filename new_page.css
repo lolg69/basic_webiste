@@ -1,0 +1,56 @@
+span{
+  color: #a2bae0;
+}
+
+body{
+  background-image: url(https://artimg.gympik.com/articles/wp-content/uploads/2019/10/Featured1.jpg);
+  border: 40px solid #7ea3f7;
+  border-top: 0px;
+  padding-bottom: 120px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+
+h1{
+  border-width: : 10px;
+  padding: 2px;
+  text-align: center;
+  color: #a2bae0;
+}
+
+#ninga1{
+  text-align: center;
+  margin-left: 100px;
+  margin-right: 100px;
+  font-family: cursive;
+  color: #f7d77e;
+}
+
+#ninga2{
+  text-align: center;
+  margin-left: 100px;
+  margin-right: 100px;
+  font-family: cursive;
+  color: #f7d77e;
+}
+
+.sign-up{
+  text-align: center;
+}
+
+
+#submit{
+  text-align: center;
+  background-color: #c9b369;
+  border: 2px solid black;
+  border-radius: 10px;
+  padding-left: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 20px;
+}
+
+#sign{
+    color: #d08ff7;
+}
